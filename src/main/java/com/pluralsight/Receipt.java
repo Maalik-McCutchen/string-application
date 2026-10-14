@@ -4,6 +4,6 @@ public class Receipt {
     public static void main(String[] args) {
         String item = "Apples";
         double priceItem = 2.37;
-        int item = 3;
+        int Qitem = 3;
     }
 }
